@@ -1,5 +1,5 @@
 # 🖼️ Editor de Imagens - Streamlit
-<img width="1920" height="1191" alt="Image" src="https://github-production-user-asset-6210df.s3.amazonaws.com/121620900/475809888-3d990876-537b-487e-99cb-c1bf8ea444b0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250807%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250807T233931Z&X-Amz-Expires=300&X-Amz-Signature=6a0ef98d6c93d582c7854d26b8efb3a1d98be6d79f4df0c8bef4190ddc29ef75&X-Amz-SignedHeaders=host" />
+<img width="1920" height="1191" alt="Image" src="https://github.com/user-attachments/assets/5896074d-780a-4227-8c8b-e3a97d050162" />
 
 Um editor de imagens interativo desenvolvido em Python com Streamlit, que permite aplicar transformações geométricas, ajustes de intensidade e filtros em imagens de forma intuitiva através de uma interface web.
 
